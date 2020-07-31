@@ -7,7 +7,7 @@ Observation_Freq_Urls_Histogram.ipynb is the very first starting point for the B
 
 PSNR.ipynb is the notebook where I experimented with finding the signal to noise ratio (SNR) for our energy detection images. This was done to find the best SNR in respect to various test window sizes (number of fine channels or size of the postage stamp I am using to extract energy detection). The first step was to sigma clip the images to remove any outliers, then subract the clipped image from the original image to produce the noiseless signal image. I also show the end results in a graph depicting the relationship between the average SNR and test window size.
 
-BAT_Threshold.ipynb is the work I've done for updating our s-value threshold and upgrading it to Bayesian Adaptive Threshold. Here is the paper the work is based on
+BAT_Threshold.ipynb is the work I've done for updating our s-value threshold and upgrading it to Bayesian Adaptive Threshold. This includes both code and several visualizations. Here is the paper the work is based on
 https://pubmed.ncbi.nlm.nih.gov/15651566/
 
 ResNet50_Testing.ipynb is just some testing as a first time learner of ResNet50. Find the full model at https://www.kaggle.com/petterma/seti-resnet50
