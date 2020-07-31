@@ -1,7 +1,7 @@
 # BL@Scale Notebook Contributions
-Link to my personal branch for the BL-Reservoir (used for preprocessing and energy detection):https://github.com/UCBerkeleySETI/BL-Reservoir.git <br />
+Link to my personal code at branch shirley-dev for the BL-Reservoir (used for preprocessing and energy detection):https://github.com/UCBerkeleySETI/BL-Reservoir.git <br />
 
-Link to my personal branch for the BL@Scale Project:https://github.com/UCBerkeleySETI/BL-Scale.git <br />
+Link to my personal code at branch shirley-dev for the BL@Scale Project:https://github.com/UCBerkeleySETI/BL-Scale.git <br />
 
 Observation_Freq_Urls_Histogram.ipynb is the very first starting point for the BL@Scale website. This notebook contains 10 GBT observation analysis, where I created a histogram of the frequencies per observation and saved them as a base64 string to be passed to the frontend (you can check it out on the BL-Scale repo main.py). Although our methods of producing the images on the front-end are no longer through passing in the image url (we store images in npy arrays now and convert it to base64 string, you can check it out on BL-Scale repo and how we do it on BL-Reservoir) I extracted the image urls for each observation as a starting point as I was learning web developing.
 
