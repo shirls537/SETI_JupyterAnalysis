@@ -1,4 +1,5 @@
 # BL@Scale Notebook Contributions
+## Project: Energy Detection and Deep Learning on Breakthrough Listen Data in the Cloud
 Link to my personal code at branch shirley-dev for the BL-Reservoir (used for preprocessing and energy detection):https://github.com/UCBerkeleySETI/BL-Reservoir.git <br />
 
 Link to my personal code at branch shirley-dev for the BL@Scale Project (webapp and more):https://github.com/UCBerkeleySETI/BL-Scale.git <br />
