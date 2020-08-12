@@ -1,6 +1,8 @@
 # BL@Scale Notebook Contributions
 ## Project: Energy Detection and Deep Learning on Breakthrough Listen Data in the Cloud
 #### Mentors: Andrew Siemion and Steve Croft
+
+### Project Description
 Working as a team under the
 mentorship of Listen’s senior leadership, in collaboration with others from the Listen group and with experts from industry, interns will implement an ML-powered processing pipeline using Google Cloud Platform. The system will ingest radio spectrograms from the Breakthrough Listen instrument at the Green Bank Telescope, allocate processing resources using Kubernetes to deploy and manage containerized instances of flexible and modifiable algorithms, and report and aggregate results to a database. Coordination of the processing pipeline, and reporting and visualization of results, will be managed by a web front-end.
 
